@@ -1,0 +1,16 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "assignment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mattia Camusso",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.14.1",
+    "node-csv": "^0.1.2"
+  }
+}
